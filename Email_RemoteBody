@@ -1,1 +1,2 @@
-Store the body of an email as a remote document, allowing for modification of the document after it has been sent 
+Store the body of an email as a remote document, allowing for modification of the document after it has been sent.
+Allow for class of users (editors/proof-readers) who can flag and provide feedback on an email before or after sending.
