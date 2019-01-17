@@ -1,0 +1,5 @@
+Implementation of the dependency graph that graphically charts a computer program.
+
+Effectively an auto-UML graph generator.
+
+Probably already done, but could be a module/feature of the dependency graph which takes a file folder or set of .cpp files as input.
